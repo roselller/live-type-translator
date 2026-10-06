@@ -151,6 +151,7 @@ Licensed under the [MIT License](LICENSE). Copyright (c) 2026 roselller.
 
 ## Security reports
 
-See [SECURITY.md](SECURITY.md) for the vulnerability-reporting process. Reports
-use restricted repository issues while this repository is private and are visible
-to all collaborators. Keep sensitive details out of public channels.
+Report suspected vulnerabilities through
+[GitHub private vulnerability reporting](https://github.com/roselller/live-type-translator/security/advisories/new).
+See [SECURITY.md](SECURITY.md) for reporting details and security boundaries.
+Do not post vulnerability details in public issues or pull requests.

@@ -2,12 +2,13 @@
 
 ## Reporting a vulnerability
 
-This repository is private. Collaborators can report a suspected vulnerability
-by opening a [repository issue](https://github.com/roselller/live-type-translator/issues/new)
-and mentioning the maintainer, **@roselller**. Access to this private repository
-is required. Reports are visible to all repository collaborators.
+This repository is public. Report suspected vulnerabilities through
+[GitHub private vulnerability reporting](https://github.com/roselller/live-type-translator/security/advisories/new).
+Sign in to GitHub and use **Report a vulnerability** on the repository's security
+page. This sends a confidential report to the maintainer, **@roselller**, rather
+than creating a public issue. Repository write access is not required.
 
-Use a title beginning with `Security:` and include:
+Include:
 
 - The affected app version or commit, macOS version, and source application.
 - Reproduction steps using synthetic text and documents you control.
@@ -19,10 +20,11 @@ Do not include real clipboard contents, personal documents, credentials, signing
 keys, or screenshots containing private information. Do not disclose a suspected
 vulnerability in a public issue, pull request, discussion, or other public channel.
 
-Keep this repository private while its issues contain confidential reports.
-Before any visibility change, review the reporting history and establish a
-confidential reporting channel for the new visibility. This issue-based reporting
-process must not be used for vulnerability details in a public repository.
+If the private reporting form is unavailable, open a
+[repository issue](https://github.com/roselller/live-type-translator/issues/new)
+requesting a private security contact. Include no vulnerability details, affected
+code locations, reproduction steps, or sensitive attachments in that public
+request. Wait for a private channel before sharing those details.
 
 ## Maintenance and response
 
