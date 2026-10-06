@@ -144,3 +144,13 @@ build/TranslateBar.app/Contents/MacOS/TranslateBar --benchmark-model
 Native panel checks use temporary preferences and fixed translations. Shortcut
 checks briefly register test combinations without sending keystrokes to editors.
 Benchmark timings depend on model readiness, workload, and system/model updates.
+
+## License
+
+Licensed under the [MIT License](LICENSE). Copyright (c) 2026 roselller.
+
+## Security reports
+
+See [SECURITY.md](SECURITY.md) for the vulnerability-reporting process. Reports
+use restricted repository issues while this repository is private and are visible
+to all collaborators. Keep sensitive details out of public channels.
